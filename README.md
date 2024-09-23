@@ -13,7 +13,7 @@ Follow these steps to install and set up the Task Tracker CLI on your local mach
 1. **Clone the repository:**
 
    ```bash
-   git clone https://your-github-repo-url.git
+   git clone https://github.com/superiorkid/task-tracker-cli.git
    cd task-tracker-cli
    ```
 
